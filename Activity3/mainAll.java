@@ -10,13 +10,13 @@ public class mainAll{
          student.setLastName("Bermudez");
          student.printInformation();
       
-         StudentInfo student = new StudentInfo("CITCS", "BSCS", "Something", 2, "2018 - 2019");
+         StudentInfo student = new StudentInfo("CITCS", "BSCS", "Digital Arts & Animation", 2, "2018 - 2019");
          student.setIdNumber("18-1921-981");
          student.setFirstname("Jay Wesley");
          student.setLastName("Decipeda");
          student.printInformation(); 
       
-         StudentInfo student = new StudentInfo("CITCS", "BSCS", "Something", 2, "2018 - 2019");
+         StudentInfo student = new StudentInfo("CITCS", "BSIT", "Network Security", 2, "2018 - 2019");
          student.setIdNumber("18-7195-425");
          student.setFirstname("Castano Tome");
          student.setLastName("Teofilo");
